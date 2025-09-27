@@ -12,7 +12,7 @@ nmap -p 80,139,135,443,3306,8080 -sC -sV -vv -oN scan.nmap <IP>
 ![nmap](screenshots/nmap1.png)    
 ![nmap](screenshots/nmap2.png)   
 ![nmap](screenshots/nmap3.png)   
-Port 80, 8080 look juicy so im starting with that. Well honestly i did checked 443 for *eternal blue* given the name was *blue*print but that wasnt the case so port 80 & 8080 is the way $_$.   
+Port 80, 8080 look juicy so im starting with that. Well honestly i did checked 443 for *eternal blue* given the name was *blue*print but that wasnt the case so port 80 & 8080 is the way `$_$`.   
 
 ### PORT 80, 8080
 ![8080](screenshots/8080.png)   
